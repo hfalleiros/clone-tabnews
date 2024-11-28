@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next dev"
   },
-  "author": "",
+  "author": "Henrique Falleiros",
   "license": "MIT",
   "dependencies": {
     "next": "^13.1.6",
